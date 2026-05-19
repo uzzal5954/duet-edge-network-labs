@@ -1,0 +1,7 @@
+Dear Sir/Madam,
+
+I sincerely apologize for submitting the form twice. Previously, on 17 May 2026, I filled out the form once and submitted it with a link to an empty repository on my GitHub.
+
+Later, following the instructions provided on 18 May, I created a shared folder on Google Drive, and on 19 May, I submitted the form again.
+
+Please note that the same `.pkt` file is available in the shareable both repository/folder in both submissions.
